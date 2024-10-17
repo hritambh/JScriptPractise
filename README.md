@@ -1,0 +1,2 @@
+# JScriptPractise
+Practising JavaScript Here
